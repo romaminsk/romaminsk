@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Roman Novokhatski — Senior SDET" width="100%" />
+  <img src="https://raw.githubusercontent.com/romaminsk/ai-advent-agent/main/docs/assets/profile-banner.svg" alt="Roman Novokhatski — Senior SDET" width="100%" />
 </p>
 
 **Senior SDET** — автоматизация web и мобильных приложений: Java · Selenide · Appium · CI/CD.
@@ -26,17 +26,11 @@
   <img height="160" src="https://streak-stats.demolab.com?user=romaminsk&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=romaminsk&theme=flat&no-frame=true&no-bg=true&column=7" alt="trophy" width="100%" />
-
 - 🔭 Сейчас: Senior QA Automation Engineer в **Приорбанке** — автоматизация для 6 банковских проектов (web, Android, iOS)
 - ✍️ Пишу про мобильную инфраструктуру тестирования: [**Medium**](https://medium.com/@rnovokhatski) (серия: параллельные эмуляторы в CI, WebDriverAgent, flaky-тесты) · [**Tproger**](https://tproger.ru/articles/odin-frejmvork-dlya-android-i-ios-zvuchit-kruto-rabotaet-net)
 - 🤖 Побочно — LLM-агенты: [ai-advent-agent](https://github.com/romaminsk/ai-advent-agent) (Java 21, Ollama, CI), [mailru-ai-assistant](https://github.com/romaminsk/mailru-ai-assistant) (OCR → AI → SQLite)
 - 🏆 Конкурс «Лучший по профессии», номинация «Высшая лига» (2025, Приорбанк)
 - 📫 [LinkedIn](https://www.linkedin.com/in/roman-novokhatski)
-
-## Последние статьи на Medium
-
-<a href="https://medium.com/@rnovokhatski"><img src="https://github-readme-medium-git-master.vercel.app/api/medium?username=rnovokhatski&random=0" alt="Recent Medium Articles" /></a>
 
 ## Избранные репозитории
 
