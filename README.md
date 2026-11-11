@@ -36,6 +36,7 @@
 
 | Репозиторий | Что это |
 |---|---|
+| [plant-market](https://github.com/romaminsk/plant-market) | Full-stack WYSIWYG-маркетплейс редких растений: Spring Boot 4 microservices, Next.js 16, OAuth2 PKCE, PostgreSQL, Redis, S3, 81 backend + 479 E2E тестов |
 | [mobile-parallel-runner](https://github.com/romaminsk/mobile-parallel-runner) | Параллельные прогоны мобильных тестов: Android-эмуляторы + iOS-симуляторы, Appium-серверы на выделенных портах — практика из серии статей |
 | [ai-advent-agent](https://github.com/romaminsk/ai-advent-agent) | Консольный агент-чат с LLM: Java 21, OpenAI-совместимый эндпоинт, офлайн через Ollama, RAG-индекс, учёт токенов, CI |
 | [mailru-ai-assistant](https://github.com/romaminsk/mailru-ai-assistant) | Учёт расходов из чеков Mail.ru: OCR → облачный AI → SQLite, Streamlit |
